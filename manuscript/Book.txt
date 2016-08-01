@@ -1,4 +1,4 @@
 prologue.md
-chapter1.txt
-chapter2.txt
-resources.txt
+chapter1.md
+chapter2.md
+resources.md

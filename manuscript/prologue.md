@@ -1,3 +1,5 @@
+# Prologue
+
 ## Introduction
 This is a practical guide that aims to teach a person with zero programming experience how to become a professional JavaScript developer/engineer.
 
@@ -5,15 +7,16 @@ More than JavaScript, we will go through a variety of topics that are necessary 
 
 This knowledge will empower us to create professional applications and solid open source projects.
 
-## Table of Contents - Chapter: Prologue
+## Summary - Prologue
 - Motivation
 - Audience
-- How this guide will work?
-- Project based
-- What is a JavaScript Engineer?
-- Choose one side
-- Topics to be studied
-- Resources
+- Walking Together
+- How This Guide Will Work?
+- Project Based
+- What Is a JavaScript Engineer?
+- Choose One Side
+- Topics To Be Studied
+- First Exercise
 
 ## Motivation
 It is really hard to learn a new skill alone. One of the worst things about learn something by ourselves is the high probability of doing things in the wrong way, in a totally amateur way, without any help or anyone to show us "the right way" to do such tasks.
@@ -39,12 +42,14 @@ I> The important thing is not the arrival, but the path traveled.
 ## Audience
 If you identify with one of the following "personas", this guide will be valuable and interesting for you:
 
-- I am a creative person, with lots of cool ideas in mind, willing to pursue the necessary knowledge (programming skills) to implement my ideas.
+- I am a creative person, with lots of cool ideas in mind, willing to chase the necessary knowledge (programming skills) to implement my ideas.
 - I am already a developer but I really want to master JavaScript development, being able to understand under the hood libraries and projects that I use day to day, and also be able to create that kind of software.
 - I am a developer that wants to have a deep understand about architectures, patterns, processes - concepts in general - to always start my personal and professional projects in a solid and well structured way.
-- I am a kind of person that prefers to know deeply about specifics topics than have superficial knowledge in a widely number of subjects.
+- I am a kind of person that prefers to know deeply about specifics topics than have superficial knowledge in a widely number of subjects (aka Fullstack developer).
 
-## How this guide will work?
+## Walking Together
+
+## How This Guide Will Work?
 I will walk with you through a lot of free resources. You will have a list of topics to study, and after each topic, you will return to this material to see more examples and exercises to internalize the current topic.
 
 If we do not find a good free resource about an important topic, I will create an article explain this topic with the necessary projects to understand such thing. :)
@@ -66,13 +71,14 @@ In this final step, you will create something new based in the previous topics a
 
 Stay calm that you will fully understand that methodology when we actually start with the practical articles.
 
-## Project based
+## Project Based
+Talk about projects and Deliberate practice.
 
-## What is a JavaScript Engineer?
+## What Is a JavaScript Engineer?
 
-## Choose one side
+## Choose One Side
 
-## Topics to be studied
+## Topics To Be Studied
 The following topics will be studied by us in the next sections of this resource, not necessarily in that exact order, but they are somehow sorted in the order that we will study them.
 
 W> This is a Frontend-centric guide, for that reason, we will just scratch the surface of topics related with Node.js and Backend development in general.
@@ -103,3 +109,6 @@ W> This is a Frontend-centric guide, for that reason, we will just scratch the s
   - Refactoring / Clean Code
   - Accessibility
   - Node.js
+
+## First Exercise
+Read the chapters "Introduction", "What Is  a Front-End Developer?" and "Part I.  The Front-End Practice" from the [Frontend Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details) (page 5 to 31).
