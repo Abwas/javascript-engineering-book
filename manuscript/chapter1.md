@@ -12,6 +12,7 @@ Let's get started!
 ## Summary - Chapter 1: HTML & CSS
 
 - Learn to Code HTML & CSS
+- FreeCodeCamp - HTML5 and CSS
 
 ## Learn to Code HTML & CSS
 

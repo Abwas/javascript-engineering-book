@@ -111,4 +111,7 @@ W> This is a Frontend-centric guide, for that reason, we will just scratch the s
   - Node.js
 
 ## First Exercise
-Read the chapters "Introduction", "What Is  a Front-End Developer?" and "Part I.  The Front-End Practice" from the [Frontend Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details) (page 5 to 31).
+
+X> Exercise 0
+X>
+X> Read the chapters "Introduction", "What Is  a Front-End Developer?" and "Part I.  The Front-End Practice" from the [Frontend Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details) (page 5 to 31). The information in those chapters will give to you a good understand/big picture of the "Frontend Developer land".
