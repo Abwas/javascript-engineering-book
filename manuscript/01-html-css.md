@@ -52,7 +52,17 @@ X>
 X> Let's create the foundation of our user interface as we did in the Styles Conference app.
 
 1. Create a directory called `ls-ui` (**L**ibrary **S**ystem - **U**ser **I**nterface).
-1. 
+1. Create a new file called `index.html` inside the `ls-ui` folder.
+1. Write the basic structure that a HTML5 file should contain:
+  - Doctype.
+  - HTML tag with the language specified.
+  - The Head section.
+  - The Body Section.
+1. Add the meta element specifing the proper charset.
+1. Add the title of the page.
+1. Add the main heading with the text: "ls-ui".
+1. Add a paragraph with the text: "First project of the JavaScript Engineering Book - Library Management System - User Interface".
+1. In the previous paragraph, add an achor element in the "JavaScript Engineering Book" text linking to our repository: `https://github.com/ericdouglas/javascript-engineering-book`.
 
 REMINDER: Discuss about "throwaways apps".
 
