@@ -35,13 +35,25 @@ Q> ## What is an Element in HTML?
 Q>
 Q> **Answer:** An Element is an individual component of our page. It could be a paragraph, a heading, a division, and so on. With several elements combined together, we are able to structure a web page to represent what we want.
 
-Q> ## What is a Tag in HTML
+Q> ## What is a Tag in HTML?
 Q>
 Q> **Answer:** A Tag in HTML is a markup that represents an Element. This is actually the blocks that we will use to construct our page. Tags most commonly occur in pairs of opening and closing tags.
 
 Q> ## What is an Attribute in HTML?
 Q>
 Q> **Answer:** An Attribute in HTML is a property that we use to provide additional information about an element.
+
+Q> ## What is a CSS Selector?
+Q>
+Q> **Answer:** A selector is used to designate an element or elements that will be target and will receive the modifications applied by such selector.
+
+Q> ## What is a CSS Property?
+Q>
+Q> **Answer:** A property determines the styles that will be applied to an element or a group of elements.
+
+Q> ## What is a CSS Value?
+Q>
+Q> **Answer:** A value in CSS is the accompanying part of a property. The value will actually determine the behavior of some property.
 
 We will create the User Interface for a Library Management System based on the steps that we followed in the previous resource, but now with a slightly difference, I'll list the steps that you have to do, and you will implement this based on those specifications.
 
@@ -59,10 +71,21 @@ X> Let's create the foundation of our user interface as we did in the Styles Con
   - The Head section.
   - The Body Section.
 1. Add the meta element specifing the proper charset.
-1. Add the title of the page.
+1. Add the title of the page ("ls-ui - JavaScript Engineering Book").
 1. Add the main heading with the text: "ls-ui".
 1. Add a paragraph with the text: "First project of the JavaScript Engineering Book - Library Management System - User Interface".
 1. In the previous paragraph, add an achor element in the "JavaScript Engineering Book" text linking to our repository: `https://github.com/ericdouglas/javascript-engineering-book`.
+1. Create a folder called `css` inside of our root folder `ls-ui`.
+1. Inside the `css` folder, create a file called `main.css`.
+1. Add [Eric Meyer's reset](http://meyerweb.com/eric/tools/css/reset/) at the top of the `main.css` file.
+1. Link the `main.css` in the `index.html`.
 
-REMINDER: Discuss about "throwaways apps".
+**Awesome!** You just started your second application and this is really great!
 
+Now you could think in another derivative project and try to repeat the above steps from memory. It's a really important step to consolidate your knowledge in your memory.
+
+I> ## Throwaways apps
+I>
+I> Don't be worried now with the quality and/or complexity of your apps. Consider the activity of learning to program in the same way as you would do to learn to play an instrument or any task that need repetition. Initially you will just practice some exercises or movements, learn some easy stuff and just **after** a lot of practice you will start to be able to create some considerable things... Your masterpieces will come after several throwaways projects. **This is an unskippable step towards the mastery of any subject.** 
+I>
+I> Watch this video as a form of motivation: [Nobody Tells This To Beginners](https://www.youtube.com/watch?v=D_gSFWt6ito).
